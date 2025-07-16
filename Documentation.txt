@@ -1,0 +1,32 @@
+
+Bookstore Web Application – User Guide
+
+Admin Access:
+- Username: admin
+- Password: admin
+- Admin has full control over book inventory.
+
+Admin Features:
+- Add new books
+- Remove existing books
+- View all books in the store
+
+User Access:
+
+Existing Users:
+- Login using:
+  - Email: (use the email listed in the database or CSV file)
+  - Password: Bookstore@1303
+
+New Users:
+- First, go to the Registration page and create an account.
+- After registration, log in using your credentials.
+
+User Features:
+- Add books to cart
+- Remove books from cart
+- Place orders (if implemented)
+
+Notes:
+- Ensure that your login credentials are correct.
+- Users must register before logging in if not already added to the system.

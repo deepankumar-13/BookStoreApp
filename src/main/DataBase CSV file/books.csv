@@ -1,0 +1,49 @@
+book_id,book_name,author,description,book_type,price
+3,"SpiderMan Homecoming","Stan Lee","A thrilling comic adventure featuring Spider-Man as he battles villains, saves the city, and balances his life as Peter Parker.","Comics Book",199
+5,"The Alchemist","Paulo Coelho","A captivating novel that explores the mysterious connection between dreams and destiny, weaving a tale of hope, ambition, and fate.",Novel,350
+6,"Steve Jobs","Walter Isaacson","The inspiring biography of Steve Jobs, co-founder of Apple, detailing his innovations, vision, leadership, and impact on the tech world.",Biography,470
+7,"Atomic Habits","James Clear","An insightful guide on how small, consistent habits can lead to life-changing transformations in productivity, health, and mindset.","Self-Help Book",380
+8,"Linear Algebra Vol-2","Sheldon Axler","A simplified approach to understanding linear algebra concepts such as vectors, matrices, and transformations, ideal for beginners and students.","Math Book",520
+9,"Dracula Brame Stoker","Bram Stoker","A chilling and classic vampire horror story filled with suspense, mystery, and gothic elements that have influenced generations of horror literature.","Horror Book",310
+10,"Disney Pixar Cars","Michale Wallis","The adventurous story of a brave red race car who learns valuable lessons about speed, friendship, and determination.","Comics Book",399
+11,"Pride and Prejudice","Jane Austen","A romantic tale set in 19th-century England, depicting social class, love, and personal growth through compelling characters and elegant prose.","Romance Book",270
+12,"A Brief History of Time","Stephen Hawking","An engaging introduction to cosmology designed for general readers, exploring the universe, black holes, and the origins of space and time.","Science Book",450
+13,"The Republic",Plato,"A deep dive into the philosophy of justice, society, and morality, examining how laws and ethics shape civilization and human behavior.","Philosophy Book",390
+14,"Into the Wild","Jon Krakauer","A true survival adventure set in the Alaskan wilderness, portraying the raw power of nature and human resilience in extreme conditions.","Travel Book",410
+15,"The Story of Art","E.H. Gombrich","An overview of world art through the ages, highlighting major movements, artists, and masterpieces across cultures and time periods.","Art Book",480
+16,"The Jungle Book","Rudyard Kipling","Classic jungle stories featuring Mowgli and his animal friends, exploring themes of courage, identity, and nature.","Story Book",250
+17,"Classical Mechanics","John R. Taylor","A scientific exploration of the physics of motion and forces, explained with practical examples and real-world applications.","Physics Book",590
+18,"Iron Man Extremis","Warren Ellis","Iron Man faces a new threat involving advanced biotechnology, testing his intellect, armor, and courage like never before.","Comics Book",230
+19,"World War II Chronicles","Winston Churchill","A detailed narration of major events and key players of World War, offering deep insights into the global conflict and its consequences.","History Book",520
+20,"To Kill a Mockingbird","Harper Lee","A powerful story that examines justice, racial inequality, and moral conscience through the eyes of children and their father.",Novel,360
+21,Becoming,"Michelle Obama","The inspiring life story of the former First Lady, chronicling her journey from humble beginnings to the White House and beyond.",Biography,440
+22,"Think and Grow Rich","Napoleon Hill","A motivational book that teaches how mindset and beliefs about money can shape financial success, based on real-life comparisons.","Self-Help Book",299
+23,"Calculus Transcendentals","James Stewart","A comprehensive guide to calculus covering limits, derivatives, integrals, and their applications with clear examples and explanations.","Math Book",630
+24,Frankenstein,"Mary Shelley","A classic horror novel that explores creation, isolation, and the monstrous consequences of scientific ambition through Frankenstein’s tale.","Horror Book",280
+25,"The Hobbit","J.R.R. Tolkien","The adventure of a small hobbit who embarks on a perilous journey to reclaim lost treasure guarded by a dragon.","Fantasy Book",399
+26,"The Notebook","Nicholas Sparks","A touching romantic story that delves into love, loss, healing, and the strength it takes to move forward.","Romance Book",340
+27,"The Selfish Gene","Richard Dawkins","An accessible explanation of evolution, natural selection, and genetics, detailing the fascinating journey of life on Earth.","Science Book",470
+28,Meditations,"Marcus Aurelius","A collection of stoic philosophical teachings from a Roman emperor, offering wisdom on life, discipline, and self-mastery.","Philosophy Book",300
+29,Vagabonding,"Rolf Potts","A practical guide for long-term travel, sharing tips on budgeting, planning, safety, and making the most of global adventures.","Travel Book",360
+30,"Drawing on the Right Side of the Brain","Betty Edwards","A revolutionary book on how neuroscience can help unlock creative potential and improve drawing and artistic skills.","Art Book",390
+31,"Harry Potter and The Philosophers Stone","J.K. Rowling","The magical beginning of a young boy’s life at Hogwarts School of Witchcraft and Wizardry, where he discovers friendship and mystery.","Fantasy Book",399
+32,"Harry Potter and the Chamber of Secrets","J.K. Rowling","Harry Potter uncovers a hidden chamber at Hogwarts and faces deadly secrets that threaten the school’s safety.","Fantasy Book",420
+33,"Harry Potter and the Prisoner of Azkaban","J.K. Rowling","Sirius Black escapes from prison, and Harry uncovers hidden truths that reshape his understanding of family and loyalty.","Fantasy Book",430
+34,"Harry Potter and the Goblet of Fire","J.K. Rowling","The Triwizard Tournament brings danger and dark magic back into Harry’s life as an ancient evil begins to rise again.","Fantasy Book",480
+35,"Harry Potter and the Order of the Phoenix","J.K. Rowling","A secret resistance forms within Hogwarts to fight injustice and prepare for the coming darkness as Dumbledore’s Army is born.","Fantasy Book",500
+36,"Harry Potter and the Half Blood Prince","J.K. Rowling","Harry learns the dark and tragic past of Voldemort, uncovering critical secrets about his rise to power and immortality.","Fantasy Book",520
+37,"Harry Potter and the Deathly Hallows","J.K. Rowling","The final installment where the forces of good and evil clash in a battle that will decide the fate of the wizarding world.","Fantasy Book",550
+38,"Ponniyin Selvan Part 1","Kalki Krishnamurthy","A grand historical Tamil novel set during the Chola dynasty, filled with royal intrigue, battles, and cultural splendor.","History Book",360
+39,"Ponniyin Selvan Part 2","Kalki Krishnamurthy","The next chapter in Arulmozhivarman’s saga as he moves closer to the Chola throne amidst loyalty, betrayal, and war.","History Book",380
+40,Mahabharata,"C. Rajagopalachari","An epic retelling of the Kurukshetra war from the Mahabharata, centered on themes of duty, dharma, and destiny.",Mythology,590
+41,Ramayana,"C. Rajagopalachari","The journey of Lord Rama to rescue Sita from Ravana, portraying the ideals of virtue, devotion, and righteousness.",Mythology,570
+42,"The Great Gatsby","F. Scott Fitzgerald","A heartbreaking tale of love, wealth, and illusion in the Jazz Age, revealing the emptiness behind glamour and desire.",Novel,340
+43,"The Power of Now","Eckhart Tolle","A guide to mindfulness and spiritual awakening that emphasizes living fully in the present moment for inner peace.","Self-Help Book",370
+44,"Brief Answers to the Big Questions","Stephen Hawking","Stephen Hawking addresses profound questions about life, the universe, and humanity’s place in it with clarity and humor.","Science Book",450
+45,"Rich Dad Poor Dad","Robert Kiyosaki","A personal finance classic that contrasts two father figures to teach lessons on wealth building, risk, and investing.","Self-Help Book",310
+46,"Wings of Fire","A.P.J. Abdul Kalam","The autobiography of Dr. A.P.J. Abdul Kalam, India’s Missile Man, chronicling his journey from a small town to the presidency.",Biography,320
+47,"The Monk Who Sold His Ferrari","Robin Sharma","A short fable that blends eastern wisdom with modern principles to reveal the keys to success and inner peace.","Self-Help Book",330
+48,1984,"George Orwell","A dystopian novel set in a future where surveillance, control, and propaganda dominate every aspect of human life.",Novel,360
+49,"Sapiens A Brief History of Humankind","Yuval Noah Harari","A compelling story of human evolution, tracking the rise of Homo sapiens and their impact on the world.","History Book",490
+50,"The Art of War","Sun Tzu","An ancient Chinese treatise on military strategy and philosophy, offering timeless wisdom on leadership and warfare.","Philosophy Book",290
+51,"Prince of Persia ","J.K Rowling",sxhgubcjjncknkdcnkd,"Story Book",299
